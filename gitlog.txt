@@ -1,0 +1,47 @@
+commit 8ef7260418282edd28e6f33d2f9538b5c81c8ce9
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Mon Sep 9 02:40:44 2024 +0200
+
+    Created functionality for a user to bet on the races
+
+commit 9740adcdcaa223616c3b5af008d347304a3f5ff9
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Sun Sep 8 01:19:38 2024 +0200
+
+    Finally UHURU, added sufficient synchronism constructs for program to function
+
+commit 91ace9455a7af7bca410778f052dc48d31ce9349
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Sat Aug 24 16:41:49 2024 +0200
+
+    Created a barrier and a latch, while listening to ASAP Rocky
+
+commit d5252ce255b29ee38a20d73f1fdbe511f0165842
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Sat Aug 24 14:57:59 2024 +0200
+
+    Implementing the functionality of the start button, while listening to Saba
+
+commit 47ba1e2b1c60cc748a809d67f5c10d8824ccc43f
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Sat Aug 24 14:34:46 2024 +0200
+
+    Fixed the 'Spin Issue' by using condition variable methods, while listening to The Roots
+
+commit 0ecdd908206d93159c9b4026f48d5459e872762d
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Wed Aug 21 23:22:03 2024 +0200
+
+    Used atomic variables on some of the instance variable
+
+commit fa7fc9d7a16e6fe839dc06b114bda77ae7f540e4
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Wed Aug 21 17:38:28 2024 +0200
+
+    Added synchronized method everywhere
+
+commit a2d6db18886f3920a6507fe0fcca796b3d9acc60
+Author: Murema Manganyi <mnghko012@myuct.ac.za>
+Date:   Wed Aug 21 16:17:07 2024 +0200
+
+    Initial Commit: No modifications made to original code, while listening to Cench and Dave
